@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final-year student of CSE.<br>I also know c, c++, java, javascript, php, MySQL, python, html, and CSS.
+I'm happy to have you on my profile...............
 
 
 ## 🌐 Socials:
