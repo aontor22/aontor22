@@ -1,6 +1,30 @@
-# 💫 About Me:
-I'm happy to have you on my profile...............
 
+<!-- ================= HEADER ================= -->
+<h1 align="center">Udoy Chowdhury</h1>
+
+<p align="center">
+  Full Stack Developer • AI/ML Engineer • Problem Solver
+</p>
+
+<!-- <p align="center">
+  <a href="https://linkedin.com/in/udoy-chowdhury-944a89175">LinkedIn</a> •
+  <a href="https://github.com/aontor22">GitHub</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p> -->
+
+---
+
+## 💫 About Me:
+
+I am a developer focused on building **scalable systems and AI-powered applications**.  
+My work combines **machine learning, backend systems, and real-world problem solving**.
+
+- 🎯 Interested in: AI, distributed systems, and backend engineering  
+- ⚙️ Experience: Full-stack development + ML pipelines  
+- 🚀 Currently: Building intelligent systems using computer vision  
+- 💼 Open to: Internships & entry-level engineering roles  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/udoychowdhury22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aontor22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udoy-chowdhury-944a89175) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@UdoyChowdhury4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aontorvai6815) 
