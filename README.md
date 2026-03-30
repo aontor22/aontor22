@@ -1,79 +1,82 @@
-<!-- ================= HACKER HEADER ================= -->
-<h1 align="center">👨‍💻 Udoy Chowdhury</h1>
+<!-- ================= HEADER ================= -->
+<h1 align="center">Udoy Chowdhury</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=>>>+Initializing+Developer+Profile...;>>>+Full+Stack+Developer;>>>+AI+%7C+ML+Engineer;>>>+Building+Real+World+Systems;>>>+Ready+to+Work+🚀" />
+  Full Stack Developer • AI/ML Engineer • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
-</p>
-
----
-
-# 🧠 About Me
-
-```bash
-> whoami
-Udoy Chowdhury
-
-> role
-Full Stack Developer | AI Enthusiast
-
-> focus
-Machine Learning, Intelligent Systems, Web Development
-
-> status
-Open to internships / remote opportunities 🚀
-```
-
----
-
-# 💼 Why Hire Me?
-
-✔ Strong foundation in **AI + Web Development**  
-✔ Built **real-world projects (YOLOv8, OCR, ML systems)**  
-✔ Experience with **full-stack + databases + cloud**  
-✔ Fast learner + problem solver  
-✔ Can adapt to startup or corporate environments  
-
----
-
-# 🚀 Featured Projects
-
-🔹 **AI Eye Care System**  
-→ ML model for detection & recommendation  
-
-🔹 **Speed Detection System**  
-→ YOLOv8 + OCR + DeepSORT  
-
-🔹 **CRM Web App**  
-→ Java + MySQL → migrating to full web stack  
-
----
-
-# ⚡ Tech Stack (Minimal Hacker Style)
-
-```bash
-Languages:   C | C++ | Java | Python | JavaScript
-Frontend:    HTML | CSS | Bootstrap | Angular
-Backend:     Node.js | PHP
-Database:    MySQL | MongoDB | Firebase
-Tools:       Git | Docker | Figma | Cisco
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aontor22&show_icons=true&theme=chartreuse-dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aontor22&theme=chartreuse-dark"/>
+  <a href="https://linkedin.com/in/udoy-chowdhury-944a89175">LinkedIn</a> •
+  <a href="https://github.com/aontor22">GitHub</a> •
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 👨‍💻 About
+
+I am a developer focused on building **scalable systems and AI-powered applications**.  
+My work combines **machine learning, backend systems, and real-world problem solving**.
+
+- 🎯 Interested in: AI, distributed systems, and backend engineering  
+- ⚙️ Experience: Full-stack development + ML pipelines  
+- 🚀 Currently: Building intelligent systems using computer vision  
+- 💼 Open to: Internships & entry-level engineering roles  
+
+---
+
+## 🚀 Selected Projects
+
+### 🧠 AI Eye Care System
+- Built an ML-based system for **disease detection and treatment recommendation**
+- Applied data preprocessing, model training, and evaluation techniques
+- Focus: real-world healthcare impact
+
+---
+
+### 🚗 Speed Detection System
+- Developed real-time system using **YOLOv8 + OCR + DeepSORT**
+- Detects vehicle speed violations with tracking
+- Optimized for accuracy and real-time performance
+
+---
+
+### 🗂️ CRM System
+- Designed a **Java + MySQL-based CRM**
+- Currently migrating to a **scalable web architecture**
+- Focus on usability, database design, and performance
+
+---
+
+## 🧰 Technical Skills
+
+**Languages**  
+C, C++, Java, Python, JavaScript  
+
+**Frontend**  
+HTML, CSS, Bootstrap, Angular  
+
+**Backend & Systems**  
+Node.js, PHP  
+
+**Databases**  
+MySQL, MongoDB, Firebase  
+
+**Tools & Platforms**  
+Git, Docker, Figma, Cisco  
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aontor22&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aontor22&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aontor22/aontor22/output/github-contribution-grid-snake.svg" />
@@ -81,31 +84,13 @@ Tools:       Git | Docker | Figma | Cisco
 
 ---
 
-# 🌐 Connect With Me
+## 📫 Contact
 
-<p align="center">
-  <a href="https://linkedin.com/in/udoy-chowdhury-944a89175">LinkedIn</a> •
-  <a href="https://facebook.com/udoychowdhury22">Facebook</a> •
-  <a href="https://instagram.com/aontor22">Instagram</a> •
-  <a href="https://x.com/UdoyChowdhury4">X</a>
-</p>
+- LinkedIn: https://linkedin.com/in/udoy-chowdhury-944a89175  
+- Email: udoychowdhury90413@gmail.com  
 
 ---
 
-# 👀 Profile Views
+## 💡 Philosophy
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aontor22&icon=6&color=0"/>
-</p>
-
----
-
-# 💻 Terminal Quote
-
-```bash
-while(true) {
-   learn();
-   build();
-   improve();
-}
-```
+> Build systems that solve real problems — not just projects.
