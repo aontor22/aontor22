@@ -1,4 +1,5 @@
 
+
 <!-- ================= HEADER ================= -->
 <h1 align="center">👨‍💻 Udoy Chowdhury</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=>>>+Initializing+Developer+Profile...;>>>+Full+Stack+Developer;>>>+AI+%7C+ML+Engineer;>>>+Building+Real+World+Systems;>>>+Ready+to+Work+🚀" /> </p> <p align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/> </p>
 
