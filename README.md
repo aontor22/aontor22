@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/udoy-chowdhury-944a89175">LinkedIn</a> •
   <a href="https://github.com/aontor22">GitHub</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:udoychowdhury90413@gmail.com">Email</a>
+  <a href="https://portfolio-udoy.vercel.app/">Portfolio</a>
 </p>
  -->
 
